@@ -5,7 +5,7 @@ $ apt install python
 
 $ git clone https://github.com/vpphacker/vppbasic.gylan
 
-$ cd vppbasic 
+$ cd vppbasic.gylan
 
 $ ls
 
